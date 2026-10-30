@@ -1,0 +1,22 @@
+{
+  "wheel_id": 519,
+  "structure": "umbrella",
+  "slug": "retainingwallbrisbane-153",
+  "project": "retaining-wall-builders-brisbane-common-mistakes-5948ea48b3f",
+  "parent_t1_ref": "retainingwallbrisbane-008",
+  "node_role": "buffer",
+  "money_target": "retainingwallbrisbane.au",
+  "primary_kw": "retaining wall builders brisbane common mistakes",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-brisbane-common-mistakes-5948ea48b3f/",
+  "tier": "T2",
+  "writeback_nonce": "56af1516e8da89e8",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/retainingwallbrisbane-008/retaining-wall-builders-brisbane.html",
+      "anchor": "https://s3.ap-southeast-2.amazonaws.com/retainingwallbrisbane-008/retaining-wall-builders-brisbane.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
